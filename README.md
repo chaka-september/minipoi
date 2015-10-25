@@ -6,7 +6,8 @@ The master has a Bluetooth module to connect with a phone.
 It is the able to distribute commands to the slaves  via a nrf2401l
 
 
-Current hardware used
+
+## Current hardware used
 
 Adruino nano
 
