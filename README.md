@@ -1,5 +1,5 @@
 # minipoi
-Small LED with a master and slave option.
+Small LED poi with a master and slave option.
 
 The master has a Bluetooth module to connect with a phone.
 
