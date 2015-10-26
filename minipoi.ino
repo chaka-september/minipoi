@@ -213,7 +213,7 @@ void bt() {
 void sendRF() {
   radio.stopListening();
   if (!radio.write( &myData, sizeof(myData) )) {
-    sendRF();
+   Serial.write("RF failed");
   }
   radio.startListening();
 }
